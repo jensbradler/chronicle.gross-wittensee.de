@@ -1,4 +1,3 @@
-version: '3'
 services:
   wittensee-history-sqladmin:
     container_name: wittensee-history-sqladmin

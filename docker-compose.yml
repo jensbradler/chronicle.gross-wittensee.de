@@ -1,4 +1,3 @@
-version: '3'
 services:
   wittensee-history:
     container_name: wittensee-history
